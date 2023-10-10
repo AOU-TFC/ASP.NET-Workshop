@@ -31,11 +31,6 @@ UpgradeLog.XML
 *.sqlite
 *.db
 
-# Dependency directories
-packages/
-node_modules/
-bower_components/
-
 # Visual Studio code coverage results
 .vscode-test/
 .vs-test/
